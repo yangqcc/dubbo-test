@@ -1,5 +1,6 @@
-package com.yqc.api;
+package com.yqc.service;
 
+import com.yqc.api.DemoService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Consumer {
